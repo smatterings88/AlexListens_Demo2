@@ -1,7 +1,7 @@
 {
   "name": "ultravox-demo-template-vercel",
   "version": "0.1.0",
-  "packageManager": "pnpm@9.9.0",
+  "packageManager": "pnpm@10.2.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
